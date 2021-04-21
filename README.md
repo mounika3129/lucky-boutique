@@ -1,3 +1,4 @@
+![323035](https://user-images.githubusercontent.com/82712730/115539688-e0fb6a80-a262-11eb-999d-35f6c68442ed.jpg)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mounika3129/lucky-boutique/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
